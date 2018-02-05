@@ -4,7 +4,7 @@
 
 프레임워크는 주변 장치를 이용하기 위한 블루투스 4.0사양을 추상화하고 있습니다. 다시 말해서, 개발자에게 제공하는 많은 하위 수준의 세부 정보를 숨기기 때문에 블루투스 장치와 상호 작용하는 앱을 훨씬 쉽게 개발할 수 있습니다. 프레임워크는 블루투스 4.0을 기반으로 하기 때문에, 규격의 일부 개념과 용어가 채택되어 사용되고 있습니다. 이 장에서는 핵심 블루투스 프레임워크를 사용하여 우수한 앱을 개발하기 위해 알아야 하는 주요 용어와 개념을 소개합니다.
 
-#####**<Important:** iOS 10 이상의 버전에서는 블루투스를 사용하려면 반드시 `Info.plist` 파일에 사용하는데 필요한 데이터 유형에 대한 description keys 를 포함하고 있어야 합니다. 블루투스 주변 장치의 데이터에 특별히 접근하려면 다음 링크의 description keys를 읽어보시기를 바랍니다.  [NSBluetoothPeripheralUsageDescription](https://developer.apple.com/library/content/documentation/General/Reference/InfoPlistKeyReference/Articles/CocoaKeys.html#//apple_ref/doc/uid/TP40009251-SW20)>
+**<Important:** iOS 10 이상의 버전에서는 블루투스를 사용하려면 반드시 `Info.plist` 파일에 사용하는데 필요한 데이터 유형에 대한 description keys 를 포함하고 있어야 합니다. 블루투스 주변 장치의 데이터에 특별히 접근하려면 다음 링크의 description keys를 읽어보시기를 바랍니다.  [NSBluetoothPeripheralUsageDescription](https://developer.apple.com/library/content/documentation/General/Reference/InfoPlistKeyReference/Articles/CocoaKeys.html#//apple_ref/doc/uid/TP40009251-SW20)>
 
 ### Central and Peripheral Devices and Their Roles in Bluetooth Communication
 
