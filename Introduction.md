@@ -26,7 +26,7 @@ iOS앱이 백그라운드에서 실행 중이거나 일시 중단된 상태일 �
 
 백그라운드 처리를 지원하는 앱도 현재 포 그라운드 앱의 메모리를 확보하기 위해 시스템에 의해 언제든지 종료될 수 있습니다. iOS7을 기준으로 CoreBluetooth는 Central과 InteribilityManager개체에 대한 상태 정보 저장을 지원하고 앱 시작 시 해당 상태를 복원합니다. 이 기능을 사용하여 블루투스 장치와 관련된 장기 작업을 지원할 수 있습니다.
 
-###Follow Best Practices to Enhance the User Experience
+### Follow Best Practices to Enhance the User Experience
 
 CoreBluetooth프레임워크는 앱을 통해 많은 블루투스 통신을 제어할 수 있게 해 줍니다. 예제에 따라 이 수준의 제어를 책임감 있는 방식으로 활용하고 사용자 환경을 개선해 보세요.
 
