@@ -1,4 +1,4 @@
-##Core Bluetooth Overview
+## Core Bluetooth Overview
 
 핵심 블루투스 프레임워크를 통해 iOS및 Mac앱이 블루투스 장치와 통신할 수 있습니다. 예를 들어 앱은 심박 수 모니터, 디지털 온도 조절기 및 기타 iOS기기와 같은 낮은 에너지 주변 장치를 검색, 탐색 및 상호 작용할 수 있습니다.
 
